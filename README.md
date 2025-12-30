@@ -6,4 +6,6 @@ This repository contains a simulation of the **SIR Model** using `DifferentialEq
 
 The infected population rises rapidly and then falls as immunity increases:
 
-![SIR Dynamics Plot](SIR_infectious_disease_time.pdf)
+<p align="center">
+  <img src="SIR_infectious_disease_time.pdf" width="500">
+</p>
